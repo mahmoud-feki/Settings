@@ -1,5 +1,8 @@
 server:
     port : 7072
+swagger:
+    enabled: false
 env:
     url: localhost
     port: 7071
+    
